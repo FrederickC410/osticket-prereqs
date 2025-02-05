@@ -22,8 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install ISS in Windows(CGI)
 - Install PHP
 - Install MySQL
-- Item 4
-- Item 5
+
 
 <h2>Installation Steps</h2>
 
