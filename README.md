@@ -22,6 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install ISS in Windows(CGI)
 - Install PHP
 - Install MySQL
+- Install osTicket
 
 
 <h2>Installation Steps</h2>
@@ -45,5 +46,12 @@ Installing PHP to ensure full support for osTicket functionalities. PHP is the c
 </p>
 <p>
 Installing MySQL. MySQL serves as the database management system (DBMS) that stores and organizes all the ticketing system’s data including user information and ticket records.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/9048823d-3f0a-4e78-bb9b-9d8c487e97e9)
+</p>
+<p>
+Installing osTicket, the help desk ticketing system used on Windows.
 </p>
 <br />
