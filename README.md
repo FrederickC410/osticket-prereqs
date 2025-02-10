@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/1bc41d51-fd34-462d-800b-44fb829742f4)
 </p>
 <p>
-Navigate to the Control Panel, then go to Programs and Features to locate and install CGI. CGI is used to execute PHP scripts and process web requests
+Navigating to the Control Panel, then going to Programs and Features to locate and install CGI. CGI is used to execute PHP scripts and process web requests
 </p>
 <br />
 
